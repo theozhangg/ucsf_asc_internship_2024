@@ -1,0 +1,1662 @@
+path,format,ocr,keywords,all_keywords,categories,subjectivity,polarity,topics
+OCR_dataset/ucsf_mss2015-01_011_061/40.pdf,handwritten,"CAUFORNIAS WAR ON AIDS 19897-1991
+
+_
+
+Estimated Service Uti ligation Chart for Hu. infection stages Ti+!
+
+   
+   
+    
+   
+
+Resides tial
+Hospice
+Facility
+
+  
+ 
+
+Sore
+Outpatient Care
+
+    
+ 
+    
+
+Skilled .
+Norsing Facility
+
+  
+
+0 Ys
+Home ttealth Care
+
+PATIENT CATESCUES USING MORE THAN ONE SERVICE ComPonenT.
+Casemanagement Services for 100° of- patient Popalation .
+Emotional Support Services for. 20/0 of petient Populahon.
+ss S/o Baberwittent Mises.
+
+1S*%o Attendant Care.
+12 %/e Home Support Services.
+\ /s Critical Mental Henith Care in the home.
+
+B pot Shared and Referred Housing ‘3
+S% Shanti - Eype Roosing -
+
+OA S/t/e>
+","['care', 'home', 'service', 'facility', 'patient']","['care', 'home', 'service', 'facility', 'patient', 'support', 'war', 'ligation', 'chart', 'infection', 'hospice', 'sore', 'outpatient', 'skilled', 'one', 'component', 'emotional', 'attendant', 'critical', 'mental', 'pot', 'housing']","{'PERSON': ['Hu', 'petient Populahon'], 'NORP': [], 'FAC': ['Norsing Facility'], 'ORG': ['Ti+!\n\n   \n   \n    \n   \n\n', 'Home ttealth Care', 'ComPonenT.\nCasemanagement Services', 'Emotional Support Services', 'S/o Baberwittent Mises', 'Attendant Care', 'Home Support Services'], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['19897-1991'], 'TIME': []}",0.5083333333333333,0.18333333333333332,"['Health', 'Nursing', 'Assisted Living & Long Term Care']"
+OCR_dataset/ucsf_mss2015-01_011_061/9.pdf,handwritten," =f Kofia Vis Atal ee
+
+Te Ca & Au th + Con se ald fo
+ea re Sos ell, pelea eg te
+
+S7-
+
+df nC Biers Ee
+
+oe Nps [pac Ses aS bese Joun
+e pee fae ee
+
+LLL
+Es AY EL ee Sock cere
+
+  
+   
+
+  
+
+Ser ft ae
+ons i Mian amet han Eig eatin.
+pt ee
+
+ 
+
+ 
+
+ 
+","['vis', 'con', 'ell', 'pac', 'pee']","['vis', 'con', 'ell', 'pac', 'pee', 'fae', 'sock', 'cere', 'ser', 'ons', 'mian', 'han']","{'PERSON': ['Sos ell', 'nC Biers Ee\n\noe', 'bese Joun', 'Mian amet han Eig'], 'NORP': [], 'FAC': [], 'ORG': ['pelea eg', 'Es AY EL ee'], 'GPE': ['Nps'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-60_8_46_peopleofcolorcaucus1986-89/68.pdf,handwritten,"c
+ey iD, \9OF POC larter9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- a a _ west hash 2 =
+bE 1 BI 2 ec munedihes (ae ae : ae
+| we 3570
+LO greneniieveo Cat, 4 7 1 Ee omates}
+l een ie __ _ - ar:
+ee
+| —a.Tte pon 2
+
+ 
+
+= Are Tinng vo iTaana | Tern ho an Poo @ &
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bE dre Hele aN slat Shen
+
+ 
+
+ 
+
+ 
+
+Mawar, Lf hele / dene te ayo | 42 White _/ fa ares Ta
+
+ 
+
+Hh reclices, / Aoos Baan es trctien apeR -
+
+ 
+
+ 
+
+fern / fer Nimqaloe. Samal / hed nae. rdoe, -
+
+—_— ~ - — — --—----
+
+ 
+","['hele', 'west', 'hash', 'cat', 'pon']","['hele', 'west', 'hash', 'cat', 'pon', 'tern', 'slat', 'dene', 'white', 'aper', 'fern', 'nae']","{'PERSON': ['| Tern ho', 'Shen', 'Mawar', 'Lf hele / dene te ayo', 'Ta\n\n \n\nHh', 'Samal', 'd nae', 'rdoe'], 'NORP': [], 'FAC': [], 'ORG': ['ec', 'LO', 'Poo @ &\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nbE'], 'GPE': ['Tinng'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,"['Arts & Entertainment', 'Music & Audio']"
+OCR_dataset/mss94-60_8_46_peopleofcolorcaucus1986-89/73.pdf,handwritten,"Oz LGesrzms:
+
+SK
+td pt Carve Arorr Decco munagi?
+Cf bar Arercs) ?
+
+Peer
+[tet Qeeo/ Cornel fat ie Ref
+Faan COSer
+SRY Brw~ © Sra
+Caran OOF.
+CG Tae ae
+Ctrrtietp Gf We Hever _
+
+LWWhit Lees
+Erica Zeneca Tp (fe. Ge
+
+Left ak (4 S757n 0 ; rae
+
+Mat HB Bygnrwne 2
+
+Athat a
+JH Sasser Aan ett Sx, 7
+","['carve', 'bar', 'peer', 'cornel', 'fat']","['carve', 'bar', 'peer', 'cornel', 'fat', 'ref', 'tae', 'lees', 'left', 'mat']","{'PERSON': ['Carve Arorr Decco munagi', 'Faan COSer', 'Caran OOF', 'CG Tae ae\n', 'LWWhit Lees', 'Erica Zeneca Tp', 'Ge\n\nLeft', 'rae\n\nMat HB', 'Athat', 'JH Sasser Aan ett Sx'], 'NORP': [], 'FAC': [], 'ORG': [], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-60_22_15/28.pdf,handwritten,"Tere Supavs to
+
+4
+\ 4a6 \ 60 — “Nene, — Celine \iclas SubF — Fes Welly vil) be check i
+» Maapleg- 4 ; oe
+
+D\ Araince:
+Sex Quit - ee
+Deven, exit UW Wie w- FA Au) Ainich Vis week,
+Reten tim system — Ferd iw) finwh Ths week or e8dy ne}
+week fel vitl) hed will Genes .
+
+) Sapenisiény of Bethe when Aine, spt IS ih meeting ;
+When A\esda (2:06-2:00 — |
+
+BRuth legue & Duconee, a moh s — Chech Se Sex “bch Arle Ghe tae
+Pe her's dang wel) wih new vekheers —
+Moe— heck wath hare on MWe cin we seb-up priser to
+
+Monday ae Richard gee Kim -
+
+—_—_-—_
+
+ 
+","['week', 'sex', 'welly', 'check', 'quit']","['week', 'sex', 'welly', 'check', 'quit', 'exit', 'vis', 'system', 'meeting', 'tae', 'dang', 'new', 'heck', 'wath', 'hare', 'gee', 'kim']","{'PERSON': ['Tere Supavs', 'Nene', 'Reten tim', 'Ferd iw', 'fel vitl', 'Aine', 'Chech Se Sex', 'Arle Ghe', 'MWe cin', 'Richard gee Kim -\n\n'], 'NORP': [], 'FAC': [], 'ORG': ['Maapleg-', 'UW', 'FA Au'], 'GPE': ['A\\esda'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['Monday'], 'TIME': ['2:06-2:00']}",0.45454545454545453,0.13636363636363635,[]
+OCR_dataset/mss94-60_22_15/99.pdf,handwritten,"CE Collaberations — FY 87-88
+
+Ct. 81 Collabeuted to provide funchtome nfo taleles
+WN He Mai + Bayvidco vote
+
+ 
+
+soy A “evan sane technical austere, tra
+
+ML DS elu coder “Teamuiga — 7
+
+pea as WUANErB4A SE Gre pe fo
+470 WWW staff, McL .
+
+ec — Cty, Chic und
+
+es Ste
+
+- Asan dds Peaect ,
+
+/ oo - Aen MDS Torok Foree__
+pa — Pilpur.w Ards ed. Prayet
+= Arps thea  Progect
+
+- Urlean Healtr $
+
+nee AAP Prope
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+","['provide', 'vote', 'soy', 'sane', 'technical']","['provide', 'vote', 'soy', 'sane', 'technical', 'austere', 'tra', 'coder', 'pea', 'staff', 'chic', 'nee']","{'PERSON': ['CE Collaberations', 'Mai + Bayvidco', 'Chic und\n\nes Ste\n\n- Asan dds Peaect'], 'NORP': [], 'FAC': [], 'ORG': ['nfo', 'WN', 'WWW', 'ec', 'Progect'], 'GPE': ['McL', 'Cty'], 'LOC': [], 'PRODUCT': ['DS'], 'EVENT': [], 'WORK_OF_ART': ['Prayet\n='], 'LAW': [], 'DATE': ['FY 87-88'], 'TIME': []}",0.1,0.0,[]
+OCR_dataset/mss94-28_008_016/35.pdf,handwritten,"Bee tte exc,
+
+673-U72/
+
+Mt WA Mali (Le
+
+ian 4 ee
+
+& GAT
+(Nfe-
+
+uhew 1D Cue
+
+De, Cate
+
+a aber : ?)
+
+2(3/2(6-S5S93
+
+yews
+
+fae apologize ay (21)
+
+oe
+
+Now Yjrorl tour fhakicgial
+
+Lt 76-SgO3 Fe ey
+(Mou 3-5 a
+
+(aye
+soon
+
+es
+
++ eee ard YP y a4 +
+
+mayor wos —=s
+
+nhs)
+54) 4
+
+J
+
++
+5 £770 | oe
+I-22. 9 ranjprP’) vag
+
+yee
+
+ossp > AM 1
+}7 JSGLT -
+21 (L)h)
+sa oi 1
+
+? WM 2
+
+ee
+
+e
+fom prt a3 74 om) 9
+","['bee', 'mali', 'gat', 'cue', 'cate']","['bee', 'mali', 'gat', 'cue', 'cate', 'fae', 'apologize', 'tour', 'mou', 'aye', 'soon', 'mayor', 'vag', 'yee']","{'PERSON': ['Bee tte exc', 'Yjrorl'], 'NORP': [], 'FAC': [], 'ORG': ['ee\n\n& GAT', 'uhew 1D Cue\n\nDe', 'Cate', 'JSGLT'], 'GPE': ['yee\n\nossp'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-28_008_016/42.pdf,handwritten,"Foe Gee Later £0
+suirt Ts fave tuorid
+day er puck The, FU ws &
+i at up a tone. Cvibk
+
+Levey ELLE
+54? BE9- ISLE
+
+cha
+qi
+call
+
+yy (‘oof
+
+ 
+","['foe', 'gee', 'later', 'day', 'puck']","['foe', 'gee', 'later', 'day', 'puck', 'tone', 'elle', 'isle', 'cha', 'call']","{'PERSON': ['Foe Gee', 'BE9-'], 'NORP': [], 'FAC': [], 'ORG': ['suirt Ts fave tuorid', 'FU ws &\ni', 'Cvibk\n\nLevey ELLE'], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['54'], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-60_020_013/4.pdf,handwritten," 
+
+W/agre,
+Enele Seo
+
+ae 7S 164
+
+om til to AIDS oEeg S ,
+
+COMM EST S a oo
+
+Thaqgk Ye
+
+on th you fe per edu;
+
+: Lef we knew (fF
+
+1 Moy uae t.: ae sous
+
+tHeve 4
+greet he[ielage
+She.
+","['til', 'per', 'knew', 'moy', 'greet']","['til', 'per', 'knew', 'moy', 'greet']","{'PERSON': ['Enele Seo\n\nae', 'oEeg', 'Thaqgk Ye', 'tHeve 4'], 'NORP': [], 'FAC': [], 'ORG': ['Moy uae t.'], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['164\n\nom til'], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-28_008_016/69.pdf,handwritten,"Audience Assad len ths, necting aan hiyhe
+",['audience'],['audience'],"{'PERSON': ['Assad len ths'], 'NORP': [], 'FAC': [], 'ORG': ['hiyhe\n\x0c'], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/ucsf_mss2015-01_011_061/33.pdf,typed," 
+
+Health Policy and Research Foundation
+of California
+
+CALIFORNIA'S WAR ON AIDS
+California AIDS Prevention/Treatment Plan 1987-1991
+dedicated to the memory of Professor Beverlee A. Myers
+May 1, 1987
+Authors
+Rev. Albert Ogle and Michael Gorman, Ph.D., M.P.H.
+. Co-Chairs
+James Chin, M.D., M.P.H. Michael Gottlieb, M.D.
+Donald Francis, M.D., D.Sc. Alan McCutchan, M.D.
+Warren Winkelstein, M.D., M.P.H.
+Chairman
+Michael Roth, M.D.
+President and Acting Executive Director
+Bruce B. Decker
+
+Assisted by: David M. Smith, Executive Assistant
+
+7985 Santa Monica Blvd., #109-251
+Los Angeles, CA 90046
+(213) 278=93'55
+
+ 
+","['executive', 'health', 'policy', 'research', 'foundation']","['executive', 'health', 'policy', 'research', 'foundation', 'war', 'plan', 'memory', 'professor', 'may', 'rev', 'ogle', 'chin', 'alan', 'warren', 'chairman', 'president', 'acting', 'director', 'decker', 'smith', 'assistant']","{'PERSON': ['Beverlee A. Myers', 'Albert Ogle', 'Michael Gorman', 'James Chin', 'M.D.', 'M.P.H.', 'Michael Gottlieb', 'M.D.\nDonald Francis, M.D.', 'D.Sc', 'Alan McCutchan', 'M.D.\nWarren Winkelstein', 'Michael Roth', 'M.D.', 'Bruce B. Decker', 'David M. Smith'], 'NORP': [], 'FAC': [], 'ORG': ['Ph.D.'], 'GPE': ['California', 'M.D.', 'M.P.H.', 'Santa Monica Blvd', 'Los Angeles', 'CA'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['1987-1991', 'May 1, 1987\n'], 'TIME': []}",0.0,0.0,['Health']
+OCR_dataset/mss94-28_008_016/3.pdf,typed," 
+
+As the Government announces a 66 per cent
+cut in its grant to the Terrence Higgins Trust,
+SIMON WATNEY examines the state of UK
+HIV/Aids funding
+
+DEALLY, funding for HIV and Alds
+
+would be directly based on the
+
+most reliable, up to date statistics
+
+Changing HIV figures would pro-
+vide the basis {or genoral and target-
+ed HIV prevention work, whilst chang:
+ing Aids figures would dotermine
+planning for hospital and community-
+based services, including the cost of
+tieatinent diugs. Unfortunataly how-
+evel, the real current and {ulure needs
+of the epidemic continue to be
+obscured by complex social, cultural
+and political factors.
+
+The British government has tn fact
+spent a very greal deal of money
+indeed in the name of HIV/Alds work,
+yet much if not most of this has been
+wasted, as the resull of bad research
+and bad policies. Government {unding
+continues to be based on the hope-
+lessly inisguided approach which it
+established in 1986, depicting every-
+one in Britain as if we ate all al equal
+tisk fon HIV.
+
+All along, the goal of preventing a
+hypothetical epidemic resulting from
+heterosexual transmission has been
+givens priotity over the goal of slowing
+and stopping the real epidemic, which
+continues to have a disproportionate
+impact amongst gay and bisexual men,
+Nor, unfortunately, are Aids charities
+necessarily immune to the same mis-
+guided approach.
+
+But in order to understand the cur-
+rent ctisis in funding it is helpful to look
+at the complex relationship between
+the statutory and voluntary sectors.
+
+Laigely as a resull of lobbying done
+by gay men, the government since
+1986 has provided substantial core-
+{unding to set up (or ""pump:-prime” as
+the jargon goes) new organisations in
+the voluntary sector, responding to the
+omerging needs of the epidemic. It has
+now been decided thal such resources,
+
+12
+
+known as Section 64 funding, should
+henceforth be restricted to a maximum
+of £450,000 por annum, per organi:
+sation. The Terrence Higgins Trust's
+annual grant will thus be cut from
+£145,000 down to £150,000 over the
+next three years. This is Justified by the
+government as a means to ‘provide a
+proper balance belween [Aids] end
+other pressing demands"", and to
+release {unde to opsn up new areas of
+work.
+
+However, the Department of Health
+has also cloarly stated thal the new fis-
+cal policy “in no way represents a less-
+ening of our commitment fo HIV/Aids
+in general’, “In the same way,"" health
+minister Baroness Cumberlage said,
+“the maintenance of the grant to the
+Terrence Higgins Trust at what Is still
+a comparalively high level, compared
+with many other voluntary bodies, is,
+and is intended {o be, the cleares! pos-
+sible demonstration of the value we
+attach fo the continuing work of the
+Trust.”
+
+Spending cholces
+
+This may at fist sound all very wali,
+and even ‘democratic’, until one stops
+to ask onesall what other incurable
+epidemics are currenlly rig In Britain?
+Indeed, itis the vary idea that the work
+of the Terrence Higgins Trust can
+somehow be compared to that of
+other non HIV/Alds charities which is
+s0 glarming, {or it signa's thal the gov-
+ernment still has no real sense of the
+scale of the emergency growing daily
+in the wake of HIV amongst gay men
+throughout Brilaln. Nor dogs It sug-
+gest thal the government fully appra-
+ciales that wilh three quarters of all
+UK HIV/Alds cases being in London,
+i is urnteasonable nol to respond
+financially where the need is damnon-
+
+strably greatest.
+
+This is nat an “equal opportunity”
+epidemic. The sama quaniities of fund-
+ing are not needed for every cocial
+constituency. For the foreseeable
+future it will continue to be gay men
+who make up the great majorily of
+cases, and who are al greatest risk. In
+teliospect, ona of the greatest
+tragedies in the management of the
+UK epidemic hes been the way in
+which cantral government has direct
+ed vast sums of money to provide HIV
+education and support services where
+they are least needed, rather than
+where they are mos! wanted.
+
+For example, there are now some
+2230 full-time HIV co-ordinators work-
+Ing In local districts of the National
+Health Service, One cartainly hopes
+that they have some impact in pre-
+venting heterosexyal transmission.
+However, as Pater Scott, editor of the
+National Aids Manual , points out, only
+20 or so of these are working where
+il actually matters most, in places
+such as Brighton, Bristol, Manchester,
+Glasgow, and of course London. Fur-
+thormore, as Scott argues, il can be
+very difficult to persuade distict health
+authorities (0 spend their money wige-
+ly, or sometimes to spand it at all,
+since this repeatedly invalves battles
+on a local basis between HIV co-ordi-
+nators and their superiors In public
+health and health promotion, for
+whom Aids is frequently a low ptiori-
+ty, and who tend to lack any sense
+whatsoever of gay man ag 8 sociat
+constituency to which they might have
+€ profassional responsibility,
+
+Unfortunately it is often difficult or
+even impossible for the larger reaion-
+al health autherities to make sure that
+the money they ate obliged to hand on
+lo the districts Is being approptiately
+spent. Nor is if clear that as financial
+
+cute bite deeper Into the WHS and focal
+government, that either health author-
+ities or focal authorities will be prepared
+to ‘purchase’ sarvices by contract from
+the voluntary sector organisations with
+createst experiance. Certainly it would
+be most regrettable It district health
+authoritias, mostly themselves far away
+from the metropolitan centres of the
+epidemic amongel gay arid bisexual
+men, become able to define and con-
+tro! HIV/Aids policies tn the Inner cities
+because they hold the purse-strinas
+¢n which non-government Alds service
+organisations such as THT will Inereas-
+ingly depend,
+
+Bluntly speaking, this means that if
+districts won't purchase sorvices tar-
+geted al gay man, those services will
+have to rely on private sector funds if
+they are to survive, let alone if they are
+to be developed. I don't think these are
+necessarily {he government's inten:
+tions, but they are nonetheless the
+most likely resulis of the present poli-
+cies. We'll end up with hundrods of
+awtul, moralistic, useless, so-called
+‘HIV education” videos for helerosex-
+val teenagers, nore boring posters at
+the doctor's, and nex to nothing being
+done for gay men.
+
+Collaboration
+
+The government Is currenty send-
+ing oul somewhal confused and con-
+tradictory signals about HIV/Aids poli.
+cies and funding, Henpily the Secretary
+of State for Health was not slamiped-
+ad by the media Into implementing
+impractical HIV testing policies for WHS.
+staff, After all, where would such poli-
+cies end? Would there be calls for
+{eachors to be rovtinsly and regularly
+tested, or even Cabinet Ministers? Yet
+Nis Bottornlgy does not seem to grasp
+the urgent need to target resources.
+
+GAY TIMES MAY 93
+","['government', 'health', 'gay', 'epidemic', 'would']","['government', 'health', 'gay', 'epidemic', 'would', 'men', 'work', 'ing', 'money', 'voluntary', 'grant', 'trust', 'based', 'real', 'one', 'new', 'sector', 'end', 'way', 'even', 'per', 'cut', 'state', 'basis', 'needs', 'continue', 'complex', 'spent', 'indeed', 'yet', 'bad', 'approach', 'ate', 'equal', 'goal', 'transmission', 'impact', 'amongst', 'bisexual', 'unfortunately', 'necessarily', 'done', 'since', 'three', 'provide', 'however', 'still', 'may', 'sense', 'need', 'constituency', 'make', 'education', 'local', 'national', 'service', 'difficult', 'man', 'focal', 'purchase', 'cent', 'directly', 'reliable', 'date', 'statistics', 'prevention', 'whilst', 'chang', 'hospital', 'cost', 'current', 'social', 'cultural', 'political', 'fact', 'deal', 'name', 'much', 'wasted', 'research', 'established', 'along', 'hypothetical', 'resulting', 'heterosexual', 'stopping', 'disproportionate', 'immune', 'order', 'understand', 'rent', 'helpful', 'look', 'relationship', 'statutory', 'provided', 'substantial', 'set', 'pump', 'jargon', 'goes', 'decided', 'known', 'section', 'henceforth', 'restricted', 'maximum', 'annual', 'thus', 'next', 'proper', 'balance', 'pressing', 'release', 'unde', 'department', 'also', 'stated', 'cal', 'policy', 'commitment', 'general', 'minister', 'baroness', 'said', 'maintenance', 'high', 'level', 'many', 'intended', 'demonstration', 'value', 'attach', 'spending', 'fist', 'sound', 'wali', 'democratic', 'ask', 'incurable', 'rig', 'vary', 'idea', 'somehow', 'non', 'scale', 'emergency', 'growing', 'daily', 'wake', 'throughout', 'dogs', 'gest', 'fully', 'quarters', 'respond', 'financially', 'nat', 'opportunity', 'every', 'foreseeable', 'future', 'great', 'risk', 'ona', 'management', 'direct', 'vast', 'support', 'least', 'rather', 'example', 'pater', 'editor', 'manual', 'working', 'actually', 'course', 'persuade', 'spend', 'sometimes', 'repeatedly', 'public', 'promotion', 'frequently', 'low', 'tend', 'lack', 'whatsoever', 'might', 'responsibility', 'often', 'impossible', 'sure', 'obliged', 'hand', 'clear', 'financial', 'cute', 'bite', 'either', 'prepared', 'contract', 'certainly', 'regrettable', 'district', 'mostly', 'far', 'away', 'metropolitan', 'arid', 'become', 'able', 'define', 'inner', 'hold', 'depend', 'bluntly', 'speaking', 'rely', 'private', 'funds', 'survive', 'let', 'alone', 'think', 'nonetheless', 'likely', 'present', 'moralistic', 'useless', 'boring', 'doctor', 'nothing', 'collaboration', 'confused', 'secretary', 'media', 'impractical', 'testing', 'staff', 'regularly', 'tested', 'cabinet', 'seem', 'grasp', 'urgent', 'target', 'times']","{'PERSON': ['chang', 'tieatinent diugs', 'al equal\n', 'Baroness Cumberlage', 'nat', 'al', 'ona', 'Pater Scott', 'Scott', 'il', 'THT', 'currenty send-\ning', 'somewhal', 'Nis Bottornlgy'], 'NORP': ['British', 'invalves'], 'FAC': [], 'ORG': ['the Terrence Higgins Trust', ""The Terrence Higgins Trust's"", 'the Department of Health', 'cloarly', 'Terrence Higgins Trust', 'the Terrence Higgins Trust', 'wilh three quarters', 'the National\nHealth Service', 'sociat', 'autherities', 'WHS', 'awtul', 'State for Health', 'WHS'], 'GPE': ['UK', 'Britain', 'Britain', 'UK', 'London', 'UK', 'Brighton', 'Bristol', 'Manchester', 'Glasgow', 'London'], 'LOC': ['gay arid bisexual', 'Inner cities'], 'PRODUCT': ['nol'], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': ['Section 64'], 'DATE': ['1986', '1986', 'annual', 'next three years', 'daily', 'MAY 93'], 'TIME': []}",0.46216935141177573,0.059392973749034364,"['Health', 'Health Conditions', 'AIDS & HIV', 'Health', 'Health Conditions', 'Infectious Diseases', 'Health', 'Reproductive Health', 'Health', 'Public Health', 'Law & Government', 'Government', 'People & Society', 'Social Issues & Advocacy', 'Law & Government', 'Public Safety', 'News', 'Health News', 'News', 'Politics']"
+OCR_dataset/mss94-28_008_016/6.pdf,typed,"i
+
+Whilst the government Is doubtless
+only too glad to be able to off-load
+potentially costly services onto the vol-
+untary sector, the latest “equal oppor-
+{unities"" approach to funding from the
+Department of Hoalth flies in the face
+of epidemiological reality. The very
+charities which face the wholly pre-
+diclabla inci ease in Aids cases over
+the coming few years are being pun
+ished because thelt work does not con-
+form to the government's dogmatic
+“politically correct” view of the nature
+af the UK epidemic,
+
+Whilst the government wishes to be
+seen {9 prevent the possibility of an
+epidemic amongst heterosexuals, it is
+not prepared to address or combat tho
+actual enidemic, which is amongst! gay
+and bisexual men. As I've been
+repeatedly arguing in this column and
+elsewhere for more years than | some-
+times care to remember, there is not
+in fact one single epidemic going on at
+all, but several different epidemics, with
+
+GAY TIMES MAY 93
+
+  
+ 
+ 
+ 
+
+dillerent time-scales, affecting differ-
+ent social graups according to diller-
+ent modes of HIV transmission, and
+cach requiring different types of
+response and funding, Nor is it espe-
+cially surprising that the government
+is currently adjusting its HIV/Aids poli-
+cies without consultation with the vol-
+unary sector, since It originally allo-
+cated funds in the first place without
+any such consultation.
+
+The real Issue, as Peter Scott
+insists, is ‘how to deal with an epi-
+demic cost-effectively, with necessar-
+ily limited tesources”.Clearly, efficient
+services must be made avallable to
+everyone living with HIV and Aids, and
+this will involve local authorities in rela-
+tion to housing and benefits for exam-
+pla, health authorities in relation to
+freatment and care, and the voluntary:
+sector for further support provision.
+The vital need to co-ordinale resources
+from such disparate Institutions can
+only be achieved by central planning
+
+Virginle
+
+me Botlomley:
+| Not
+addressing
+the real
+epldemle
+
+Similarly, prevention work requires
+a coherent approach, which proceeds
+from a recognition and respect of the
+ways in which gay men’s lives differ
+from those of most helerosexuais,
+vather than from the delusion that
+everyone is exactly the same, regard
+less of gender or sexuality. Indeed. it
+may well be the case that targeted,
+community-based HIV prevention work
+for gay men cannot realistically be
+accommodated within the older Aids
+service organisations, which were
+mostly long since de-gayed.
+
+Perhaps the very notion of charities
+which attempt to undertake every
+imaginable task is also out of date and
+now fundamentally mistaken? Why for
+example should we expect an organ-
+isation which specialises in housing
+problems facing people with HIV or
+Aids {o also laad the field in HIV pre-
+vention, or ""gangral” telaphone coun-
+selling for that matter? Hence the sig-
+nificance 6! the recently launched Stop
+
+Aids Pioject, which has resulled trom
+an unusually entightenod collaboration
+between regional health authorities in
+north London, Whilst boing ""housed in
+tho voluntary sector with both the Ter-
+tence Higgins Trust and Gay Men
+Fighting Aids. This is ore example of
+A pragmatic, regional response, with
+Prope! planning and initial resourcing,
+which proceeds from the recognition
+thal gay men have parlicular needs in
+London as a whole. Yel itis chilling to
+think thal even today, nobody hat aver
+conducted a proper, rigorous needs-
+assessment for gay men anywhere in
+Britain, on: the basis of which a prop-
+ar national Aids plan might be daval-
+oped, with clear funding parameters.
+
+Moral debate
+
+In this respect, the question of who
+pays for the Aids crisis constantly
+reluins us to the question of what the
+State is actually for? This is not, [ think,
+@ question ¢f party politics, After all,
+the Labour Pay has consistently failed
+to understand this epidemic, and In
+Holland last year it was a socialist-fem-
+inigt who implemented culs on pre-
+vention work for gay men in a mannar
+which Mrs Bottomley must have
+warmed tc. In all of this, the debate we
+need concems the very principle of
+State responsibility for citizens facing
+an unprecedented emergency.
+
+Sadly, It is plainly obvious that In
+Britain, as in other countries, gay men
+ate not generally regarded as 2 fun-
+damental social constituency within the
+wider social formation. In funding as
+elsewhere il seems that we are losing
+the moral debate constructed around
+HiViAids, and it is far from clear how
+many poople in power would agree
+with Edward King’s recent observation
+that: “At a time when it is increasingly
+popular fo search for complex eypla-
+nations for continuing or increasing fev-
+els of unsafe sexual behaviour among
+gay and bisaxual men the most obvi-
+ous explanation - lack of continuing
+oducation about safer sex — must not
+be overlooked.” (BMJ, March 20th, p
+792). Right now the most crucial ques-
+
+tions concen who controls funding,
+
+and how we can win the mora! debate
+aboul HIV/Aids. The two are not
+unconnected,
+
+a
+3
+","['gay', 'men', 'government', 'sector', 'work']","['gay', 'men', 'government', 'sector', 'work', 'epidemic', 'debate', 'whilst', 'social', 'must', 'question', 'approach', 'face', 'amongst', 'tho', 'elsewhere', 'times', 'care', 'different', 'may', 'response', 'without', 'consultation', 'since', 'real', 'everyone', 'housing', 'health', 'voluntary', 'need', 'prevention', 'proceeds', 'recognition', 'respect', 'within', 'also', 'example', 'facing', 'regional', 'think', 'clear', 'moral', 'state', 'doubtless', 'glad', 'able', 'potentially', 'costly', 'onto', 'latest', 'equal', 'department', 'epidemiological', 'reality', 'wholly', 'ease', 'coming', 'pun', 'form', 'dogmatic', 'politically', 'correct', 'view', 'nature', 'seen', 'prevent', 'possibility', 'prepared', 'address', 'combat', 'actual', 'bisexual', 'repeatedly', 'column', 'remember', 'fact', 'one', 'single', 'going', 'several', 'affecting', 'according', 'transmission', 'surprising', 'currently', 'unary', 'originally', 'funds', 'first', 'place', 'issue', 'peter', 'deal', 'limited', 'efficient', 'made', 'living', 'involve', 'local', 'relation', 'support', 'provision', 'vital', 'disparate', 'central', 'similarly', 'coherent', 'ways', 'differ', 'delusion', 'exactly', 'regard', 'less', 'gender', 'sexuality', 'indeed', 'well', 'case', 'targeted', 'realistically', 'older', 'service', 'mostly', 'long', 'perhaps', 'notion', 'attempt', 'undertake', 'every', 'imaginable', 'task', 'date', 'fundamentally', 'mistaken', 'expect', 'people', 'field', 'selling', 'matter', 'hence', 'recently', 'stop', 'unusually', 'collaboration', 'north', 'trust', 'fighting', 'ore', 'pragmatic', 'initial', 'needs', 'whole', 'chilling', 'even', 'today', 'nobody', 'hat', 'aver', 'proper', 'rigorous', 'assessment', 'anywhere', 'basis', 'national', 'plan', 'might', 'crisis', 'constantly', 'actually', 'party', 'politics', 'labour', 'pay', 'consistently', 'understand', 'last', 'year', 'warmed', 'principle', 'responsibility', 'unprecedented', 'emergency', 'sadly', 'plainly', 'obvious', 'ate', 'generally', 'constituency', 'formation', 'losing', 'around', 'far', 'many', 'power', 'would', 'agree', 'king', 'recent', 'observation', 'time', 'increasingly', 'popular', 'search', 'complex', 'increasing', 'els', 'unsafe', 'sexual', 'behaviour', 'among', 'explanation', 'lack', 'sex', 'march', 'right', 'crucial', 'win', 'mora', 'two', 'unconnected']","{'PERSON': ['Peter Scott', 'laad', 'trom', '¢f', 'Bottomley', 'il', 'Edward King’s'], 'NORP': ['Pioject'], 'FAC': [], 'ORG': ['the\nDepartment of Hoalth', 'thelt', 'GAY TIMES', 'necessar-\nily', 'Institutions', 'telaphone', 'Stop\n\nAids', 'Higgins Trust', 'Gay Men\nFighting Aids', 'prop-\nar national Aids', 'State', 'the Labour Pay', 'mannar', 'concems', 'State', 'BMJ', 'p'], 'GPE': ['UK', 'Virginle', 'London', 'London', 'Britain', 'Holland', 'Britain', 'complex eypla-'], 'LOC': [], 'PRODUCT': ['Botlomley'], 'EVENT': [], 'WORK_OF_ART': ['Prope'], 'LAW': [], 'DATE': ['the coming few years', 'MAY 93', 'today', 'last year', 'March 20th'], 'TIME': []}",0.4407773952954674,0.16552639127940327,"['Health', 'Health Conditions', 'AIDS & HIV', 'Health', 'Reproductive Health', 'People & Society', 'Social Issues & Advocacy', 'Health', 'Health Conditions', 'Infectious Diseases']"
+OCR_dataset/mss94-28_008_016/124.pdf,typed,"John o. James 419/255-4659 &g5/10/93 2:04PM O35
+
+Technology
+
+Fax broadcast technology as backbone of phone tree. Ultimately,
+electronic mail will be more important than fax. But now and for some time to come,
+most organizations will be familiar with fax and set up to receive it, but not ready for e -
+mail. Therefore we should start now with fax broadcast, add optional e-mail ASAP, and
+offer the choice of receiving alerts either way.
+
+Fax broadcast allows you to send a fax once, from an ordinary fax machine or
+from a computer, and have it delivered automatically to dozens, hundreds, or
+thousands of fax machines. MC! Mail offers a fax broadcast service which appears very
+economical — probably less than the cost of sending on ordinary fax long distance,
+and start-up costs are negligible. You maintain your own lists (in their equipment),
+using their software on your IBM-compatible computer. For example, you could have
+lists of organizations/volunteers by Congressional subcommittees, meaning that you
+could send one fax which would automatically go to persons who lived in (or within
+local calling distance of) members of the subcommittee and who were interested in the
+issue at hand; these recipients would then pick up their phones and call their personal
+lists of people willing to make the calls (or write) to their representatives. By keeping
+your lists current (as people move, etc.), you could call a targeted national mobilization
+and have calls start coming in to all the committee or subcommittee offices fhe same
+day the action alert is composed and approved.
+
+Note that the end recipients (who make the cails to their representatives) only
+need to have a telephone — not a fax. The local organization or organizer who
+activates them only needs to receive ordinary fax. Only the central organization(s) need
+more technology — a personal computer and a person trained to use the fax-broadcast
+system, including its list-maintenance software.
+
+Electronic mail. E-mail is less expensive and more flexible than fax. In
+addition, one of its greatest virtues is the doors it opens for working relationships with
+thousands of allies in potentially friendly movements (such as the environment, civil
+liberties, Latin America or other geographic areas, etc.) whom we might not otherwise
+reach,
+
+We should encourage e-mail in general, and offer it as an option for receiving
+action alerts (where it not only will save money compared to fax, but encourage two -
+way and multi-way communication). Also, e-mail is the best way to circulate drafts of
+action alerts, for editing and sign-off by representatives of the different organizations
+which are coordinating their alerts.
+
+For more details on e-mail, see ""Electronic Mail for Political Mobilization,
+Community Building"" in A/DS Treatment News #172, April 2, 1993.
+
+Politics
+
+This isn't my area of expertise. But as an observer and a ""consumer"" of action
+alerts, here is what | would like to see:
+","['mail', 'broadcast', 'action', 'technology', 'electronic']","['mail', 'broadcast', 'action', 'technology', 'electronic', 'way', 'ordinary', 'computer', 'could', 'would', 'receive', 'start', 'offer', 'send', 'automatically', 'less', 'distance', 'one', 'local', 'subcommittee', 'call', 'personal', 'people', 'make', 'mobilization', 'need', 'organization', 'encourage', 'see', 'backbone', 'phone', 'tree', 'ultimately', 'important', 'time', 'come', 'familiar', 'set', 'ready', 'therefore', 'add', 'optional', 'choice', 'either', 'machine', 'service', 'economical', 'probably', 'cost', 'sending', 'long', 'negligible', 'maintain', 'equipment', 'example', 'congressional', 'meaning', 'lived', 'within', 'calling', 'interested', 'issue', 'hand', 'pick', 'willing', 'write', 'keeping', 'current', 'move', 'targeted', 'national', 'coming', 'committee', 'day', 'alert', 'composed', 'note', 'end', 'telephone', 'organizer', 'needs', 'central', 'person', 'trained', 'use', 'system', 'expensive', 'flexible', 'addition', 'working', 'allies', 'potentially', 'friendly', 'environment', 'civil', 'geographic', 'might', 'otherwise', 'reach', 'general', 'option', 'save', 'money', 'two', 'communication', 'also', 'best', 'circulate', 'different', 'political', 'community', 'building', 'treatment', 'news', 'politics', 'area', 'observer', 'consumer', 'like']","{'PERSON': ['John o. James 419/255-4659'], 'NORP': ['Congressional'], 'FAC': [], 'ORG': ['2:04PM O35\n\nTechnology\n\nFax', 'MC!', 'IBM', 'cails'], 'GPE': [], 'LOC': ['Latin America'], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': ['Electronic Mail for Political Mobilization'], 'LAW': [], 'DATE': ['April 2, 1993'], 'TIME': []}",0.4803030303030305,0.13111742424242423,['Business & Industrial']
+OCR_dataset/ucsf_mss2015-01_011_062/1.pdf,typed,"|
+
+OB. 21.90
+CHRON _ FIcEéS | HIssing LOU.
+C Be vi oe eerste
+1IQ@ge Tan FEB, HAR., APR. KAN June, Tacy
+pated
+Reg., SEPT
+
+L487 TAd, MAR) ACR Nou
+
+7?
+
+ 
+
+1488 Fes, HAR APR,
+","['hissing', 'tan', 'kan', 'june', 'sept']","['hissing', 'tan', 'kan', 'june', 'sept', 'tad', 'mar']","{'PERSON': ['Tan FEB', 'Tacy\n'], 'NORP': ['SEPT'], 'FAC': [], 'ORG': ['HAR', 'KAN June', 'MAR', 'ACR Nou'], 'GPE': [], 'LOC': [], 'PRODUCT': ['C Be vi oe eerste'], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/ucsf_mss2015-01_011_060/10.pdf,typed,"Connie Wofsy, M.D.
+
+Associate Director of the Division of AIDS Activity
+San Francisco General Hospital
+
+Ward 84
+
+San Francisco CA 94110
+
+Warren Winkelstein, M.D.; MPH
+Professor, Epidemioclagy
+Epidemiology Program
+
+University of California, Berkeley
+140 Warren Hall
+
+Berkeley CA 74720
+
+Jim Wiley, Ph.D.
+Assistant Director
+Survey Research
+Building C
+
+2538 Channing Way
+Berkeley CA 974720
+
+John Watters, Ph.D.
+
+Director, Urban Health Studies
+Haight Asbury Free Medical Clinic
+1779 Haight Street
+
+San Francisco CA 94117
+
+Robert E. Anderson, M.D.
+President
+
+DSW Laboratories; Inc.
+
+3 Embarcadero Center
+Suite 2560
+
+San Francisco CA 94111
+
+George Lemp, Dr.P.H.
+
+Chief, Surveillance Department
+
+San Francisco Department of Health
+1444 Market Street
+
+4th Floor
+
+San Francisco CA 94103
+
+John S. Greenspan, B.Sc.,BDS, PhD
+Director
+
+Oral AIDS Center
+
+University of California, San Francisco
+School of Dentistry
+
+HSW 604
+
+San Francisco CA 94143-0512
+
+Larry Bye
+
+President
+
+Communication Technologies
+260 California Street
+
+#803
+
+San Francisco CA 94111
+
+Elizabeth Donnegan, M.D.
+
+Director
+
+Blood Bank
+
+University of California, San Francisco
+P. O. Box 0100
+
+San Francisco CA 94142
+
+Susan Sampson, MPH
+Staff Epidemiologist
+Irwin Memorial Blood Bank
+270 Masonic Avenue
+
+San Francisco CA 94118
+","['san', 'director', 'university', 'street', 'warren']","['san', 'director', 'university', 'street', 'warren', 'health', 'president', 'center', 'department', 'blood', 'bank', 'associate', 'division', 'activity', 'general', 'hospital', 'ward', 'professor', 'epidemiology', 'program', 'hall', 'assistant', 'survey', 'research', 'building', 'way', 'urban', 'free', 'medical', 'clinic', 'suite', 'chief', 'surveillance', 'market', 'floor', 'oral', 'school', 'dentistry', 'larry', 'bye', 'communication', 'box', 'staff', 'epidemiologist', 'memorial', 'masonic', 'avenue']","{'PERSON': ['Connie Wofsy', 'Warren Winkelstein', 'M.D.', 'Jim Wiley', 'John Watters', 'Robert E. Anderson', 'M.D.', 'George Lemp', 'P.H.', 'John S. Greenspan', 'Larry Bye', 'Elizabeth Donnegan', 'P. O. Box 0100', 'Susan Sampson', 'Irwin Memorial Blood Bank'], 'NORP': [], 'FAC': ['Warren Hall\n\n', 'Haight Street\n\n', 'Embarcadero Center', 'California Street', 'Masonic Avenue\n\n'], 'ORG': ['M.D.\n\nAssociate', 'the Division of AIDS Activity\n', 'San Francisco General Hospital', 'MPH\nProfessor', 'Epidemioclagy\nEpidemiology Program\n\nUniversity of California', 'Ph.D.', 'Urban Health Studies', 'Haight Asbury Free Medical Clinic', 'DSW Laboratories', 'Surveillance Department\n\n', 'San Francisco Department of Health', 'School of Dentistry', 'HSW 604', '94143-0512', 'Communication Technologies', 'Blood Bank\n\nUniversity of California', 'MPH\nStaff'], 'GPE': ['San Francisco', 'Berkeley', 'Berkeley', 'San Francisco', 'B.Sc.', 'San Francisco', 'San Francisco', 'San Francisco', 'San Francisco'], 'LOC': [], 'PRODUCT': [], 'EVENT': ['Ph.D.', 'PhD'], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.25000000000000006,0.041666666666666685,['Health']
+OCR_dataset/ucsf_mss2015-01_011_060/18.pdf,typed,"Francis’ 16 October 1937
+
+General Comments.
+
+1. Government Responsibility. Frevention pregrams da nota by-
+and-larges fit well inte the private sector. Thus, it is the
+gevernment*’s responsibility ta take the lead in AIDS prevention.
+
+@. Policy Chaos. Because of the lack of informed leadership at
+the highest levels of National and State gevernments, specific
+policy guidelines for existing lecal pregrams te follow are
+frequently cenfused and often lacking. Mereever, the distractions
+constantly emanating from extremists, including elected officials,
+consume an inordinate amount of field staff time and clearly
+injure program gcals.
+
+3. Advisory Cammittees. Expert advisory committees need ta be
+established at State and local levels. These cammittees need ta
+have responsibility and power to act on their recommendations.
+Some way must be devised ta convince political leaders that these
+are necessary, must be of high quality scientificallys and will
+shield them fram many of the politically sensitive issues
+surrcunding AIDS.
+
+%. Lecatian of Effeart. Because af variations in ethnics
+geographic and behavireal characteristics of at-risk populations,
+the ultimate workings of AIDS prevention must be at the local
+(county/city/cammunity) level.
+
+S. Current Status. It must be realized that, even ina
+relatively well funded area such as Californias only a skeleton of
+an acceptable AIDS prevention program exists in all but a few
+areas. Major increases in local staffs are required te field true
+AIDS prevention.
+
+6. Frevention Consumed by Treatment. More and more time of AIDS
+""srevention"" staff is being spent dealing with the social and the
+persemal upheaval caused by the occurrence of AIDS. This must be
+factered in when planning AIDS prevention funding
+
+7. Funding/Hiring Mechanisms. The current processes by which
+gevernment funds are obtained and allocated and ultimately spent
+are unacceptably slaw for fielding AIDS prevention pragrams.
+
+Epidemiclogy/Surveillance
+
+1. Case surveillance. Investigations of AIDS cases i
+risk groups sheuld be shertened using short forme and
+help ef hespital staff such as infection centrol nurse
+Surveillance persennel sheuld then concentrate their
+
+investigations on AIDS patients and HiV-infected people having.
+
+ 
+
+rh
+
+ 
+","['prevention', 'must', 'responsibility', 'staff', 'local']","['prevention', 'must', 'responsibility', 'staff', 'local', 'well', 'policy', 'state', 'field', 'time', 'program', 'advisory', 'need', 'current', 'spent', 'surveillance', 'general', 'government', 'fit', 'private', 'sector', 'thus', 'take', 'lead', 'chaos', 'lack', 'informed', 'leadership', 'highest', 'national', 'specific', 'follow', 'frequently', 'often', 'constantly', 'consume', 'inordinate', 'amount', 'clearly', 'injure', 'expert', 'established', 'power', 'act', 'way', 'convince', 'political', 'necessary', 'high', 'quality', 'shield', 'many', 'politically', 'sensitive', 'geographic', 'ultimate', 'level', 'status', 'even', 'relatively', 'funded', 'area', 'skeleton', 'acceptable', 'major', 'true', 'treatment', 'dealing', 'social', 'upheaval', 'occurrence', 'funds', 'ultimately', 'unacceptably', 'slaw', 'case', 'risk', 'short', 'forme', 'help', 'infection', 'nurse', 'concentrate', 'people']","{'PERSON': ['Frevention pregrams da', 'Lecatian', 'Effeart'], 'NORP': ['sheuld'], 'FAC': [], 'ORG': ['Government Responsibility', 'National', 'State', 'existing lecal pregrams te', 'State', 'behavireal', 'Frevention Consumed by Treatment', 'Epidemiclogy'], 'GPE': ['Californias'], 'LOC': [], 'PRODUCT': ['HiV'], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['’ 16 October 1937'], 'TIME': []}",0.38946236559139785,0.07922043010752687,['Health']
+OCR_dataset/ucsf_mss2015-01_011_059/31.pdf,typed," 
+  
+
+Ips
+
+ 
+
+= —
+
+ 
+
+§ 65849 ENVIRONMENTAL HEALTH TITLE 22
+(p. 1800.88) . (Register 8, No. 2—1-12-25)
+
+(f} Infectious waste, except for sharps capable of puncturing or cutting, shall
+
+be contained in double disposable plastic bags which are impervious to mois- -
+
+ture and have a strength sufficient to preclude ripping, tearing or burstin
+under normal conditions of usage and of handling the waste-filled bags. Fach
+bag shall be constructed of material of sufficient single thickness strength to
+pass the 165-gram dropped dart impact resistance test as prescribed by Stand-
+ard D 1709—75 of the American Society for Testing and Materials and certified
+by the bag manufacturer. The bags shall be securely tied so as to prevent
+leakage or expulsion of solid or liquid wastes during storage, handling or trans-
+
+port.
+
+(g) Infectious sharps shall be contained for disposal in leakproof, rigid, punc-
+ture-resistant containers such as cartons or metal cans which are taped closed
+or tightly lidded to preclude loss of the contents.
+
+(h) All bags used for containment and disposal of infectious waste shall be
+red in color and conspicuously labeled with the words “Infectious Waste” or
+with the international biohazard symbol and the word “Biohazard”. Rigid con-
+tainers of infectious sharps waste shall be labeled in the same way or placed and
+secured in the disposable bags used for other infectious waste. :
+
+(i) Compactors or grinders shall not be used to process infectious waste until
+after the waste has been rendered noninfectious. Infectious waste in bags or
+other disposal containers shall not be subject to compaction by any compacting
+device and shall not be placed for storage or transport in a cat or mobile
+trash compactor.
+
+(j) Infectious waste contained in disposable containers, as prescribed in sub-
+
+* sections (f), (gz) and (h) of this section, shall be placed for storage or handling
+in disposable or reusable pails, cartons, drums, dumpsters or portable bins. The
+containment system shall be leakproof, have tight-fitting covers and be kept
+clean and in ie repair. The containers may be of any color and shall
+conspicuously labeled with the words “Infectious Waste”, or with the interna-
+tional biohazard symbol and the word “Biohazard”, on the lid and on the sides
+SO as = be readily visible from any lateral direction when the container is
+upright.
+
+(k) Reusable containers for infectious waste shall be thoroughly washed and
+
+’ decontaminated by a method approved by the local health officer or the De-
+paw each time they are emptied, unless the surfaces of the containers have
+en completely protected from contamination by disposable liners, bags or
+other devices removed with the waste. Approved methods of decontamination
+include, but are not limited to, agitation to remove visible soil combined with
+one of the following procedures:
+
+Bh panna to hot water of at least 82 C (180° F) for a minimum of 15
+seconds. . .
+
+(2) Exposure to chemical sanitizer by rinsing with or immersion in one of the
+following for a minimum of 3 minutes: .
+
+(A} Hypochlorite solution (500 ppm available chlorine).
+
+(B) Phenolic solution (500 ppm active agent).
+
+(C) Iodoform solution (100 ppm availabie iodine).
+
+(D) Quaternary ammonium solution (400 ppm active agent).
+
+(I) rene fo drums, dumpsters or bins used for containment of infec-
+tious waste shall not be used for containment of waste to be disposed of as
+noninfectious waste or for other purposes except after being decontaminated
+by procedures as described in part Os of this section.
+
+ 
+
+BAS ROAR ES ge tl RA geet BSP Re AR I Oe RE RT TS tt ag EY OM alc PE TY
+—
+
+sme? PORT eee Fk, Se
+
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+ 
+
+ 
+","['waste', 'shall', 'infectious', 'disposable', 'used']","['waste', 'shall', 'infectious', 'disposable', 'used', 'containment', 'solution', 'sharps', 'handling', 'storage', 'disposal', 'health', 'except', 'strength', 'sufficient', 'preclude', 'bag', 'port', 'leakproof', 'rigid', 'color', 'conspicuously', 'symbol', 'word', 'noninfectious', 'section', 'visible', 'one', 'following', 'minimum', 'active', 'agent', 'environmental', 'title', 'register', 'capable', 'cutting', 'double', 'plastic', 'impervious', 'ripping', 'tearing', 'normal', 'usage', 'material', 'single', 'thickness', 'pass', 'dart', 'impact', 'resistance', 'test', 'society', 'testing', 'certified', 'manufacturer', 'securely', 'tied', 'prevent', 'leakage', 'expulsion', 'solid', 'liquid', 'metal', 'closed', 'tightly', 'lidded', 'loss', 'contents', 'red', 'international', 'way', 'process', 'subject', 'compaction', 'device', 'transport', 'cat', 'mobile', 'trash', 'compactor', 'portable', 'system', 'kept', 'clean', 'repair', 'may', 'lid', 'sides', 'readily', 'lateral', 'direction', 'container', 'upright', 'thoroughly', 'washed', 'method', 'local', 'officer', 'paw', 'time', 'unless', 'completely', 'contamination', 'removed', 'decontamination', 'include', 'limited', 'agitation', 'remove', 'soil', 'combined', 'hot', 'water', 'least', 'exposure', 'chemical', 'rinsing', 'immersion', 'hypochlorite', 'available', 'chlorine', 'phenolic', 'iodoform', 'iodine', 'quaternary', 'ammonium', 'disposed', 'part', 'bas', 'roar', 'geet']","{'PERSON': ['geet BSP Re AR I'], 'NORP': [], 'FAC': [], 'ORG': ['burstin', 'Stand-', 'the American Society for Testing and Materials', 'Os'], 'GPE': ['Se\n\n \n\n   \n \n \n \n \n \n \n \n \n \n  \n   \n  \n  \n \n \n  \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n  \n\n \n\n \n\x0c'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': ['15\nseconds', '3 minutes']}",0.22342958459979737,-0.06980749746707195,['Business & Industrial']
+OCR_dataset/ucsf_mss2015-01_011_059/45.pdf,typed,"mprevrx/DF/1 Dec 87
+
+TARGETING AIDS PREVENTION EFFORTS TOWARDS HIV INFECTED PERSONS.
+The concept af FPrevention/Treatment Centers
+
+Donald F. Francis M.D., D.Sc... Rebert Andersans M.D., Michael
+
+—. Germans Ph.Ds M.P.H.» Martin Fenstersheibs, M.D. and Marcus
+Cemants M.D.
+
+Intreduction. Through the centuries human infectious diseases
+have maintained their existence through transmission of their
+Causative agents fram infected cer Enna te uninfected persans. Te
+combat these diseases, prevention programs have attempted ta
+interrupt this proecess and thus terminate, one-hy-one,s these
+“chains of transmission"". Depending on the disease, varicus
+
+prevention modalities have been used.
+
+Altheugh there is no available vaccine or prophyulactic therapy
+
+for human immunedeficiency virus (HIV), other effective prevention
+medalities de exist for acquired immuncdeficiency syndrome (AIDS).
+The major one is teaching humans how to adjust their behaviors te
+mimimize the risk of further infections. Since the majority of HIV
+infections are transmitted threugh censengual acts (sexual
+intercourse and sharing of intravencus drug-using paraphenalia)s
+peaple have a cheice whether they wish tea risk infection. Given
+this factor af cheice, which can be influenced by risk reduction
+pregrams, substantial reductions in HIV transmissian can be
+
+realized (),
+
+Because HIV infection is not evenly distributed across any
+
+countrys but is instead cencentrated in specific settings where
+","['prevention', 'risk', 'infected', 'human', 'transmission']","['prevention', 'risk', 'infected', 'human', 'transmission', 'infection', 'towards', 'concept', 'martin', 'infectious', 'existence', 'causative', 'uninfected', 'combat', 'interrupt', 'thus', 'terminate', 'depending', 'disease', 'used', 'available', 'vaccine', 'therapy', 'virus', 'effective', 'exist', 'acquired', 'syndrome', 'major', 'one', 'teaching', 'adjust', 'since', 'majority', 'sexual', 'intercourse', 'whether', 'wish', 'tea', 'given', 'factor', 'reduction', 'substantial', 'evenly', 'distributed', 'across', 'instead', 'specific']","{'PERSON': ['mprevrx', 'Donald F. Francis M.D.', 'D.Sc', 'Rebert Andersans M.D.', 'Michael', 'Martin Fenstersheibs', 'M.D.', 'Marcus\nCemants M.D.\n\nIntreduction', 'cer Enna te', 'persans', 'af cheice'], 'NORP': ['Germans'], 'FAC': [], 'ORG': ['varicus', 'Altheugh', 'intravencus drug', 'peaple'], 'GPE': [], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['Dec 87'], 'TIME': []}",0.4148148148148148,0.09305555555555554,"['Health', 'Health Conditions', 'Infectious Diseases', 'Health', 'Reproductive Health', 'Health', 'Health Conditions', 'AIDS & HIV']"
+OCR_dataset/ucsf_mss2015-01_011_059/54.pdf,typed,"Draft 3 Dec
+
+FURFOSE AND ACCOMPLISHMENTS OF CDC AIDS ADVISOR FOSITION
+AT CALIFORNIA DEPARTMENT OF HEALTH SERVICES
+
+Goals Prevent the transmissicen of human immuncdeficiency virus in
+a manner which is maximally effective yet cauges the minimum of
+sechal disruption.
+
+Objectives:
+1. Assist the State of Califarnia in its quest ta manage the
+current AIDS epidemic and prevent future spread of infection.
+
+2. Design and field national medel AIDS prevention and
+surveillance programs.
+
+3. Evaluate the ugefullness af a Federal AIDS assignee ta a
+state in terms af unifying and ceardinating the major public
+health», medicals, gavernmental, political, and cemmunity
+
+group*s actions ta prevent and manage the AIDS epidemic.
+
+4%, Speed camminicatians/probleam salving ef field issues with
+State and Federal authorities,
+
+oS. Stimulate and assist the private, academics and
+govermental pursuit af an HIV vaccine.
+
+& Assist State researchers tawards answering critical AIDS
+related questions.
+
+7. Mesiet the State Viral and Ricketsial Disease Laboratory
+in strategy and implementation of AIDS prevention activities.
+
+8. Assist other States and Countries in AIDS prevention
+activities.
+
+Major Accomplishments:
+
+Flarning/Coordination Decuments s
+1. State AIDS Flan
+@. Prevention of AIDS in the U.S. (Francis and Chin)
+3. State War on AIDS
+4, Title X Family Planning Guidelines.
+S. State Prevention Message.
+
+Filet Frejectss
+1. Sentinel Serelegic-Surveillance
+~pilets in Alameda and Riverside Counties (campleted)
+“Statewide survey (completed)
+“S te Y ceunty pregram (being funded)
+@. FPreventican/Treatment Centers (2 caunties-beginning)
+3. Cantact tracing feasibility (Padian-beginning)
+
+\
+","['state', 'prevention', 'assist', 'prevent', 'health']","['state', 'prevention', 'assist', 'prevent', 'health', 'manage', 'epidemic', 'field', 'federal', 'major', 'draft', 'advisor', 'department', 'human', 'virus', 'manner', 'maximally', 'effective', 'yet', 'minimum', 'disruption', 'quest', 'current', 'future', 'spread', 'infection', 'design', 'national', 'surveillance', 'evaluate', 'assignee', 'public', 'political', 'group', 'speed', 'stimulate', 'private', 'pursuit', 'vaccine', 'critical', 'related', 'viral', 'disease', 'laboratory', 'strategy', 'implementation', 'flan', 'chin', 'war', 'title', 'family', 'message', 'filet', 'sentinel', 'alameda', 'riverside', 'survey', 'funded', 'tracing', 'feasibility']","{'PERSON': ['Accomplishments', 'Francis', 'Chin', 'Filet Frejectss'], 'NORP': ['Padian'], 'FAC': ['Califarnia'], 'ORG': ['CDC', 'State', 'Ricketsial Disease Laboratory', 'Title X Family Planning Guidelines', 'S te Y ceunty pregram', 'FPreventican/Treatment Centers'], 'GPE': ['U.S.', 'Sentinel Serelegic-Surveillance', 'Alameda', 'Riverside Counties'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': ['Flarning/Coordination Decuments s\n1'], 'LAW': [], 'DATE': ['FOSITION'], 'TIME': []}",0.37847222222222215,0.049999999999999996,"['Health', 'Health Conditions', 'Infectious Diseases']"
+OCR_dataset/ucsf_mss2015-01_011_061/2.pdf,mixed,"STATE OF CALIFORNIA
+
+OFFICE MEMO
+STB 100 (REV 12/85)
+86 38867
+
+   
+
+lz 7
+TO. ———
+
+Banwes Cumran, MD
+CHC
+
+ROOM NUMBER
+FROM. AN
+
+ 
+
+lone HANS , Seen tery mi
+Den Frans ma)
+
+SUBJECT
+pe
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Put your thoughts to work. Submit a MERIT AWARD SUGGESTION.
+","['state', 'office', 'memo', 'rev', 'room']","['state', 'office', 'memo', 'rev', 'room', 'number', 'lone', 'seen', 'den', 'subject', 'put', 'work', 'submit', 'merit', 'award', 'suggestion']","{'PERSON': ['Banwes Cumran', 'Den Frans ma'], 'NORP': [], 'FAC': [], 'ORG': ['MD\nCHC\n\nROOM NUMBER', 'SUBJECT\npe\n\n \n\n   \n\n \n\n \n\n \n\n \n\nPut', 'MERIT AWARD'], 'GPE': ['CALIFORNIA'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['38867'], 'TIME': []}",0.3333333333333333,-0.16666666666666666,[]
+OCR_dataset/ucsf_mss2015-01_011_060/2.pdf,mixed," 
+
+ 
+
+   
+
+ 
+   
+    
+  
+    
+    
+   
+
+ 
+
+Communicable pisesse [Reabarch Center” wate Tee
+86334 Wilshire Bl} #|654 : :
+
+Los. Angeles, CA 905
+
+Dear Mr. 2 a : :
+t , :
+
+a >
+: ° : fa pte
+One of our recent patients has given us your name, bo: contagt as a possible ‘carrier ZS
+
+_of the A.I.D.S. Virus, (aquired ‘Immune Deficiency Syndrome) We strongly urge“you | ee
+
+' contactthe nearest disease testing center in your area to have’ a routine blood
+examination. We also strongly “Buggest you refrain from sexual activity: until you
+have been tested. ae ‘ Nae
+
+Sincerely,
+
+Dr. Benjamin Dover
+C.D.R.C. “
+","['center', 'strongly', 'communicable', 'tee', 'dear']","['center', 'strongly', 'communicable', 'tee', 'dear', 'one', 'recent', 'given', 'name', 'possible', 'carrier', 'virus', 'immune', 'deficiency', 'syndrome', 'urge', 'nearest', 'disease', 'testing', 'area', 'routine', 'blood', 'examination', 'also', 'refrain', 'sexual', 'activity', 'tested', 'nae', 'sincerely', 'benjamin', 'dover']","{'PERSON': ['fa pte\nOne', 'Buggest', 'Nae', 'Benjamin Dover'], 'NORP': [], 'FAC': ['CA 905'], 'ORG': ['Reabarch Center', 'contagt', 'the A.I.D.S. Virus'], 'GPE': ['Los.', 'Angeles'], 'LOC': [], 'PRODUCT': ['ZS\n\n_'], 'EVENT': [], 'WORK_OF_ART': ['Immune Deficiency Syndrome'], 'LAW': [], 'DATE': [], 'TIME': []}",0.53125,0.20833333333333331,['Health']
+OCR_dataset/ucsf_mss2015-01_011_059/3.pdf,mixed,"ADDITIONAL CONFIDENTIAL COMMENTS FOR THE EDITOR (including suitability for this journal): Specify the reasons
+“that have led to your judgment. Indicate which of your comments to the author are major requirements for revision and which are
+comments for optional revision.
+
+ 
+
+ 
+
+ 
+
+i
+
+a ae
+
+Signature of Consultant
+
+ 
+
+Name and address of reviewer
+if other than that given on the front Signature of Other Reviewer (if any)
+of this form:
+
+ 
+
+ET/1182/5M
+","['revision', 'signature', 'reviewer', 'additional', 'confidential']","['revision', 'signature', 'reviewer', 'additional', 'confidential', 'editor', 'suitability', 'journal', 'specify', 'led', 'judgment', 'indicate', 'author', 'major', 'optional', 'consultant', 'name', 'address', 'given', 'front', 'form']","{'PERSON': [], 'NORP': [], 'FAC': [], 'ORG': [], 'GPE': [], 'LOC': [], 'PRODUCT': ['Signature of Other Reviewer'], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.4166666666666667,-0.0625,[]
+OCR_dataset/mss94-28_008_016/8.pdf,mixed,"But if they base their claims for funding solely on the risks to heterosexuals, the case
+for funding them will melt away if and when the heterosexual epidemic fails to
+materialise. By contrast, those organisations which are clearly providing valuable
+services to those genuinely in need will be in the strongest position to argue for
+continuing and increasing financial support in the future.
+
+Unfortunately, nearly all AIDS organisations seem to be stuck in the dogmas of the
+eighties, like soldiers lost in a jungle, still fighting a war decades after peace has been
+declared. For example, the National AIDS Trust dismissed out of hand the latest
+epidemiological report which questions the extent to which HIV will spread beyond
+high risk groups, even before it had been published. The London Lighthouse
+newsletter ignores the reality of the British epidemic by dwelling on the unconnected
+fact that heterosexual transmission is the most common route of infection in other
+countries. Lighthouse director Christopher Spence MBE seems most concerned that
+the heterosexuals of the future may judge the extent to which gay men were willing
+to provide HIV services for everyone, and will find us wanting. But after six years
+during which AIDS organisations have indeed tended to provide targeted services for
+everyone except gay and bisexual men, AIDS organisations must wake up to the fact
+that it is gay men who are now doing the Judging, and they who are being found
+wanting.
+
+er
+_
+———
+
+a Rail
+
+PS, Bimon ny aval i Wwe Ree eee ———
+
+ak Me be p \ Wig BE) Sumy , re shos\o rene)
+
+\ y
+
+RADE i, “\ £.1Sd,v00 pe aA wrd tras Tvuat's Went
+
+ 
+
+uo
+cont Nase be tsb hvem Euso (S00 POWAN be E180 ovo ""
+","['gay', 'men', 'heterosexual', 'epidemic', 'future']","['gay', 'men', 'heterosexual', 'epidemic', 'future', 'extent', 'lighthouse', 'fact', 'provide', 'everyone', 'wanting', 'base', 'solely', 'case', 'melt', 'away', 'contrast', 'clearly', 'providing', 'valuable', 'genuinely', 'need', 'position', 'argue', 'increasing', 'financial', 'support', 'unfortunately', 'nearly', 'seem', 'stuck', 'like', 'lost', 'jungle', 'still', 'fighting', 'war', 'peace', 'declared', 'example', 'national', 'trust', 'hand', 'latest', 'epidemiological', 'report', 'spread', 'beyond', 'high', 'risk', 'even', 'newsletter', 'reality', 'dwelling', 'unconnected', 'transmission', 'common', 'route', 'infection', 'director', 'spence', 'concerned', 'may', 'judge', 'willing', 'find', 'six', 'indeed', 'targeted', 'except', 'bisexual', 'must', 'wake', 'found', 'rail', 'aval', 'ree', 'wig', 'went']","{'PERSON': ['Christopher Spence MBE', ""wrd tras Tvuat's Went"", 'Nase'], 'NORP': ['British'], 'FAC': [], 'ORG': ['the National AIDS Trust', 'London Lighthouse', 'Lighthouse', 'Rail\n\nPS', 'v00 pe aA', 'tsb hvem Euso', 'E180 ovo'], 'GPE': ['Bimon ny', 'Sumy'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['the\neighties', 'a war decades', 'six years'], 'TIME': []}",0.45517543859649123,0.10710526315789475,"['Health', 'Health Conditions', 'AIDS & HIV', 'Health', 'Reproductive Health', 'Health', 'Health Conditions', 'Infectious Diseases', 'People & Society']"
+OCR_dataset/mss94-60_020_013/1.pdf,mixed,"Boarp oF Drrecrors
+
+Bang Nguyen
+Chair
+
+Bill Pick
+
+Vice Chair
+
+Albert Park
+Secretary
+
+Jaime Geaga
+Treasurer
+
+Ignatius Bau
+George Choy
+Richard Daquioag
+Jim Naritomi
+Tony Nguyen
+
+STAFF
+
+John Silva
+Executive Director
+
+Steve Lew
+Education Director
+
+Lori Lee
+Direct Service Director
+
+Paul Shimazaki
+Early Intervention Services
+
+Craig Yee
+Counseling Services
+
+Mathew Luu
+Winnie Tran
+
+Danny Yu
+Case Workers
+
+James Lee
+Executive Assistant
+
+Myong-Cha Lewis
+Administrative Assistant
+FUNDED BY:
+
+San Francisco Department of
+Health AIDS Office
+
+San Francisco AIDS Walk
+through the Asian/Pacific
+AIDS Coalition
+
+Centers for Disease Control
+‘through Asian AIDS Project
+
+Asian American Health
+Forum, Fiscal Agent
+
+ & | GAPA Community HIV Project 1841 Market Street 3rd Floor
+San Francisco, CA 94103
+
+(415) 575-3939 (office)
+(415) 575.3935 (fax)
+
+February 11, 1992
+
+Pat Christen
+
+Executive Director
+
+San Francisco AIDS Foundation
+P.O. Box 426182
+
+San Francisco, CA. 94142
+
+Dear Pat;
+
+We just want to thank the Foundation for their assistance on our postcard book
+project, which is enclosed. The funds donated through your organization, the Levi
+Strauss Foundation and private donations greatly reduced the costs of producing
+this multi lingual education material. With a total of 8 Asian and Pacific Islander
+languages included in this postcard book, we can broaden our efforts to reduce
+risky sexual behavior among immigrant gay and bisexual men and their partners.
+
+Wayne Blankenship has been very helpful in moving the process forward, and we
+will now be coordinating a distribution process with him for a number of the books
+to be used by the Foundation.
+
+Thanks again!
+ie eg Hon én: as
+a
+John Silva teve Lew
+Executive Director Education Director
+
+       
+","['director', 'san', 'executive', 'foundation', 'education']","['director', 'san', 'executive', 'foundation', 'education', 'project', 'chair', 'silva', 'lew', 'lee', 'assistant', 'health', 'office', 'pat', 'book', 'process', 'bang', 'bill', 'pick', 'vice', 'park', 'secretary', 'treasurer', 'tony', 'staff', 'lori', 'direct', 'service', 'early', 'intervention', 'yee', 'case', 'lewis', 'administrative', 'funded', 'department', 'walk', 'coalition', 'disease', 'control', 'forum', 'fiscal', 'agent', 'gapa', 'community', 'market', 'street', 'floor', 'christen', 'box', 'dear', 'want', 'thank', 'assistance', 'funds', 'donated', 'organization', 'private', 'greatly', 'reduced', 'lingual', 'material', 'total', 'pacific', 'islander', 'included', 'broaden', 'reduce', 'risky', 'sexual', 'behavior', 'among', 'immigrant', 'gay', 'bisexual', 'men', 'helpful', 'moving', 'forward', 'distribution', 'number', 'used', 'thanks']","{'PERSON': ['Boarp oF Drrecrors\n\nBang Nguyen\nChair', 'Bill Pick', 'Albert Park', 'Jaime Geaga', 'Ignatius Bau', 'George Choy\nRichard Daquioag', 'Jim Naritomi', 'Tony Nguyen\n\nSTAFF', 'John Silva', 'Steve Lew', 'Lori Lee\n', 'Paul Shimazaki', 'Craig Yee', 'Mathew Luu', 'Winnie Tran', 'Danny Yu\nCase Workers', 'James Lee', 'Myong-Cha Lewis', 'Pat Christen', 'Pat', 'Wayne Blankenship', 'John Silva', 'teve Lew'], 'NORP': ['Asian', 'Asian', 'Asian'], 'FAC': ['P.O. Box 426182'], 'ORG': ['Early Intervention Services', 'Counseling Services', 'San Francisco Department', 'Coalition\n\nCenters for Disease Control', 'San Francisco AIDS Foundation', 'Foundation', 'Levi\nStrauss Foundation', 'Foundation'], 'GPE': ['San Francisco', 'CA', 'San Francisco', 'CA'], 'LOC': ['Pacific Islander'], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['February 11, 1992'], 'TIME': []}",0.32083333333333336,0.16904761904761906,['People & Society']
+OCR_dataset/mss94-28_008_016/43.pdf,mixed," 
+
+To Ww
+
+ 
+
+cree Sub, or
+
+Exch age Sub
+
+ATN Publishers
+P.O. Box 411256
+San Francisco, CA 94141
+
+ 
+
+ 
+","['sub', 'cree', 'age', 'box', 'san']","['sub', 'cree', 'age', 'box', 'san']","{'PERSON': [], 'NORP': [], 'FAC': ['P.O. Box'], 'ORG': ['CA 94141'], 'GPE': ['San Francisco'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-28_008_016/34.pdf,mixed," 
+
+e DATE TIME
+
+ 
+
+a /) lo '
+Bob Kathe rej
+NO.
+rnPATWS peg PTA
+Support (Vetwory
+
+= = |
+PF Learess 4
+/ ad
+f) aT , u /) C/ : coef -©
+
+SIGNED
+","['date', 'time', 'bob', 'peg', 'support']","['date', 'time', 'bob', 'peg', 'support']","{'PERSON': ['Bob Kathe', 'coef -©'], 'NORP': [], 'FAC': [], 'ORG': ['rnPATWS', 'PTA'], 'GPE': ['Vetwory'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.0,0.0,[]
+OCR_dataset/mss94-60_020_013/19.pdf,mixed,"Development and Testing
+
+The phrasebook project was conceived through the evaluations completed by
+individuals participating in our risk reduction workshops over the past year. There
+was consistent identification of a need for skills building in “bringing up” and
+negotiating safer sex beyond the discussion and role plays offered in the workshop.
+
+The concept was tested within three of the English workshops held during the
+spring of 1991 by providing handouts of safer sex “one liners” to participants, and
+soliciting suggestions form the groups to add on to the list. A similar exercise was
+conducted with primarily Filipino, Japanese and Chinese speaking participants to
+encourage the use of colloquialisms within each language. Comments are included
+on focus group forms attached.
+
+Once the concept was developed into a prototype, a group of language
+consultants from the gay Asian and Pacific Islander community was gathered to
+review the “safer sex one liners” list, as well as potential scenarios where sex
+encounters could occur. Each language group was asked to develop appropriate
+phrases and scenarios in their own language focusing on creating original language
+rather than translation. These phrases were then translated back into English. Eight
+language consultant groups underwent this process. +
+
+The text including indications of graphics was assembled, and circulated for
+review by gay Asian and Pacific Islander organizations in Los Angeles, and New
+York. The comments are submitted in this package. The text was then consolidated
+into the format presented for AIDS Office review.
+
+The agencies that have consulted on the project include the Asian/Pacific
+Lesbian and Gays Inc, Los Angeles, the Gay Asian Pacific Men of New York, and the
+South Asian Lesbians and Gays, also from New York.
+
+Rte bag lih vers ey ef each a ee
+in a vernacular Juat PF Close te ee ee mes
+: i as G LY
+
+of pigden Englith sp-ken neteng Japenese, Wet!
+
+caine native spealars We close Cn ae Fale
+Ma a : ree a
+
+le ih the Bag ioh secfOs, Tae Pe Fe
+
+aaa! , , “ S idee ENG [O4 |
+
+Stweture (ue “ct con fet S Pete y
+","['language', 'sex', 'group', 'gay', 'pacific']","['language', 'sex', 'group', 'gay', 'pacific', 'review', 'new', 'york', 'project', 'concept', 'within', 'one', 'list', 'islander', 'text', 'bag', 'close', 'development', 'testing', 'risk', 'reduction', 'past', 'year', 'consistent', 'identification', 'need', 'building', 'beyond', 'discussion', 'role', 'workshop', 'tested', 'three', 'spring', 'providing', 'soliciting', 'form', 'add', 'similar', 'exercise', 'primarily', 'speaking', 'encourage', 'use', 'included', 'focus', 'attached', 'prototype', 'community', 'well', 'potential', 'could', 'occur', 'develop', 'appropriate', 'original', 'rather', 'translation', 'back', 'eight', 'consultant', 'underwent', 'process', 'graphics', 'package', 'consolidated', 'format', 'office', 'include', 'men', 'south', 'also', 'vernacular', 'wet', 'native', 'ree', 'tae', 'con', 'fet', 'pete']","{'PERSON': ['Englith', 'Tae Pe Fe', 'Pete y\n\x0c'], 'NORP': ['Japanese', 'Chinese', 'Asian', 'Asian', 'Asian', 'South Asian', 'Japenese'], 'FAC': [], 'ORG': ['the Gay Asian Pacific Men of New York', 'lih', 'G LY', 'O4 |\n\nStweture'], 'GPE': ['Los Angeles', 'New\nYork', 'Los Angeles', 'New York', 'Juat', 'Cn ae Fale\nMa', 'aaa!'], 'LOC': ['Pacific Islander', 'Pacific Islander'], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['the past year', 'the\nspring of 1991'], 'TIME': []}",0.33854545454545454,0.13911363636363633,['People & Society']
+OCR_dataset/mss94-28_008_016/68.pdf,mixed,"oo (pebres [ow euretal yeYers)
+
+ 
+
+ce
+4
+‘S Leland Traiman, a nurse practitioner now working as clinical
+yg? Camanasth manager for Marcus Conant, ns and managing Dr. |
+(0 Conant ‘’s trial of the experimental treatment TP-5S (thymopentin), | |
+| iaSenn? what makes the difference between a good or poor
+dirs
+
+\
+
+clinical, trial,/at the weekly public meeting of The Healing
+
+Alternatives Foundation on August 23 Jf Fs
+$$ =
+
+  
+","['clinical', 'trial', 'nurse', 'practitioner', 'working']","['clinical', 'trial', 'nurse', 'practitioner', 'working', 'manager', 'experimental', 'treatment', 'difference', 'good', 'poor', 'weekly', 'public', 'meeting', 'healing', 'foundation', 'august']","{'PERSON': ['Leland Traiman', 'Marcus Conant'], 'NORP': [], 'FAC': [], 'ORG': ['dirs', 'The Healing\n\nAlternatives Foundation'], 'GPE': [], 'LOC': [], 'PRODUCT': ['Jf Fs\n'], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': ['4\n‘S', 'weekly', 'August 23'], 'TIME': []}",0.4166666666666667,0.09999999999999998,['Health']
+OCR_dataset/mss94-28_008_016/70.pdf,mixed,"— ‘ t 4 we 2
+Uc_Fre WA CLM.
+
+a fire _berrboeky ok,
+Cc
+
+Co Pextaa Therr war > a
+
+  
+
+Ks mee
+bp
+
+ey uportal Te Ny Coat |
+
+¢
+
+Aha tm,
+
+a
+
+in actuslly organizing and
+
+ 
+     
+   
+   
+
+Due to audience interest
+conducting community-based cYinical trials in San Francisco-—
+following or changing the model cr@ated by the Community Research
+Initiative in New York, which organized within the Péople
+With AIDS Coalition there andAis now conducting sevefal AIDS drug
+trials--discussion at the meeting shifted to haw such an effort
+
+might work here. For-continuity and easier reading, we selected
+
+the most importa information and arranged it under the headings
+
+ 
+
+ 
+
+ 
+
+KY oor clinical trials? ""ise 5
+4
+
+en - SET? ""The researchers must define very clearly at the
+
+4 Stet Bad
+
+beginning of a study whom they will admit, what medical entry
+criteria will be required. \
+
+""Also, a trial needs a clear definition of succe PY ot an
+amorphous goal like “we want people to get better"" but a clear,
+clinical definition of success or failure: symptoms, blood work,
+skin immune assaysy and activity of the virus in the blood.
+
+“Unfortunately, we still do not have very good tests to
+measure viral activity. The more we use the P24 test (a test for
+a viral protein}, the less reliable it seems to be. The beta-2-
+microglobulin test might be a good one, but it’s still too early
+to tell. Until we get a better test, much of this research is
+going to be iffy.""
+
+JJ:\ Meanwhile, people are maki isi = Bec
+
+: “While it’s empowering to take treatments such as AL 721
+
+str —
+
+—
+
+ 
+","['test', 'research', 'might', 'work', 'clinical']","['test', 'research', 'might', 'work', 'clinical', 'clear', 'definition', 'people', 'get', 'better', 'blood', 'activity', 'still', 'good', 'viral', 'fire', 'war', 'coat', 'aha', 'due', 'audience', 'interest', 'san', 'following', 'model', 'community', 'initiative', 'new', 'york', 'organized', 'within', 'coalition', 'drug', 'discussion', 'meeting', 'haw', 'effort', 'easier', 'reading', 'selected', 'information', 'set', 'must', 'define', 'clearly', 'stet', 'bad', 'beginning', 'study', 'admit', 'medical', 'entry', 'criteria', 'also', 'trial', 'needs', 'amorphous', 'goal', 'like', 'want', 'success', 'failure', 'skin', 'immune', 'virus', 'unfortunately', 'measure', 'use', 'protein', 'less', 'reliable', 'one', 'early', 'tell', 'much', 'going', 'iffy', 'meanwhile', 'maki', 'take']","{'PERSON': ['Ks mee\n', 'Péople', 'Stet Bad', 'succe PY'], 'NORP': [], 'FAC': [], 'ORG': ['WA CLM', 'Cc\n\nCo', 'Te Ny Coat |', 'actuslly', 'cYinical', 'Community Research\nInitiative'], 'GPE': ['San Francisco-', 'New York', 'KY', 'AL'], 'LOC': [], 'PRODUCT': [], 'EVENT': [], 'WORK_OF_ART': [], 'LAW': [], 'DATE': [], 'TIME': []}",0.417733860342556,0.14643610013175232,[]

@@ -1,0 +1,38 @@
+id,source_file,page_num,title_summary,format,dataset,granularity,notes
+1,ucsf_mss2015-01_011_061,40,"""California's War on AIDS: Estimated Service Utilization Chart for HIV Infection Stages III-IV"" pie chart",handwritten,nms,3,"has pie chart, just states the facts and statistics"
+2,ucsf_mss2015-01_011_061,9,Comments and suggestions on an article,handwritten,nms,1,"first of multiple, edits to an article, reveals the reasoning behind the edits and reflects the kind of caution to sensitivities/wording they would've taken at the time "
+3,mss94-60_8_46_peopleofcolorcaucus1986-89,68,Questions to add to a survey to evaluate the effectiveness of an AIDs awareness workshop,handwritten,sfafr,1.5,"implies that these were not in the survey before, why not? + reasoning/importance of these questions. insights that just seeing the final survey can't provide"
+4,mss94-60_8_46_peopleofcolorcaucus1986-89,73,People of Color Caucus meeting notes,handwritten,sfafr,2,
+5,mss94-60_22_15,28,Todo list/notes on the operations of (assumed) SFAFR,handwritten,sfafr,1,"gives insight into daily operations for SFAF, unlikely that in this era they would've typed up this kind of information so similar information is probably also handwritten"
+6,mss94-60_22_15,99,SFAFR (?) past collaborations with other organizations,handwritten,sfafr,1.5,
+7,mss94-28_008_016,35,"Multiple notes on meetings and contact information, written by John",handwritten,atnr,1,can give greater insight into the interactions between organizers and what kind of people organizers value for their research
+8,mss94-28_008_016,42,"Letter from Jeremy Bell to John S. James, not written by John",handwritten,atnr,1,"personal, informal correspondence can let us see how they felt about each other/internal politcs and how the org worked"
+9,mss94-60_020_013,4,Letter between two employees at SFAFR talking about revisions to an article draft and small talk,handwritten,sfafr,1,see above
+10,mss94-28_008_016,69,"Introduction to ""Community Based Aids Drug Trials"" article draft, not written by John",handwritten,atnr,2,"unfiltered meeting notes, very runon sentences. reflects the mood of the audience of a meeting at the time surrounding developments to drug trails which probably would not be mentioned in a typed up document"
+11,ucsf_mss2015-01_011_061,33,"Health Policy and Research Foundation of California ""California's War on AIDS"" title page",typed,nms,3,intro/dedication page for a report on California's war on AIDS
+12,mss94-28_008_016,3,"""Paying for Aids"" news article",typed,atnr,3,article on how the government is handling the AIDS/HIV crisis poorly due to funding choices. Also mentions how voluntary organizations are handling funding choices. criticizes the lack of urgency from the british government
+13,mss94-28_008_016,6,Gay Times May 93 news article,typed,atnr,3,continuation from previous source
+14,mss94-28_008_016,124,Document on types of technology to disemminate news,typed,atnr,2.5,about the different ways organizations can distribute information to incite action such as fax and email
+15,ucsf_mss2015-01_011_062,4,Donald P. Francis' testimony to California about the risk of transmission for a child who bit another child,typed,nms,2,"very matter of fact, put it as 2 granularity because it is a very specific testimoney that relates to Francis' specific area of work "
+16,ucsf_mss2015-01_011_060,10,A list of contact information for various administrators at different hospitals and organizations,typed,nms,2,see title summary column
+17,ucsf_mss2015-01_011_060,18,Notes/critiques on the administrative logistics/current progress of AIDs prevention,typed,nms,2.5,pretty critical of the government's lack of action/poor funding choices and how underfunded even California is. similar to source 12
+18,ucsf_mss2015-01_011_059,31,Infection Waste Regulations,typed,nms,3,see title summary column
+19,ucsf_mss2015-01_011_059,45,"""Targeting AIDS Prevention Efforts Towards HIV Infected Persons. The concept of Prevention/Treatment Centers"" article written by Donald",typed,nms,3,see title summary column
+20,ucsf_mss2015-01_011_059,54,"Draft 3 of ""Purpose and Accomplishments of CDC AIDS Advisor Position at California Department of Health Services",typed,nms,3,see title summary column
+21,ucsf_mss2015-01_011_061,2,"Memo to James Curran from Abbe Havens, secretary to Don Francis about a letter for publication",mixed,nms,1,"very matter of fact, only contains essentially brief logistical detaisl"
+22,ucsf_mss2015-01_011_060,2,Letter alerting someone that they may be a possible carrier of AIDs,mixed,nms,1,brief handwritten message telling recipient of the copy of the letter that the letter was found inside
+23,ucsf_mss2015-01_011_059,3,Annals of Internal Medicne manuscript review comments,mixed,nms,1.5,comments on an article from a consultant
+24,mss94-28_008_016,8,"""Edward King argues that AIDS organisations need new policies based on new facts"" last page with handwritten notes at the bottom (appears to not be written by John)",mixed,atnr,3,condeming the way voluntary aids foundation are not targeting gay men for treatment and resources despite being the group that needs it the most. handwritten comments editing a fact that the article gets wrong
+25,mss94-60_020_013,1,"Letter thanking SFAFR for their contribution to a postcard book, hadnwritten sticky note attached congratulating recipient",mixed,sfafr,2,"positive sentiment, reveals a little bit about the inner workings of SFAF and between organizations"
+26,mss94-28_008_016,43,Pre-addressed postcard to ATN Publishers,mixed,atnr,1.5,"does't really say much, but it seems to be a personal correspondence?"
+27,mss94-28_008_016,34,"Phone message note, not written by John",mixed,atnr,1.5,gives insight into the personal correspondence between organizers and organizations. also gives insight into how the organization was structured-- had secretaries and such to take memos like this
+28,mss94-60_020_013,19,Edit to an explanation of the development of an article,mixed,sfafr,1.5,handwritten edit to an article
+29,mss94-28_008_016,68,"""Community Based Aids Drug Trials"" article draft, edits not written by John",mixed,atnr,1.5,handwritten edit to an article
+30,mss94-28_008_016,70,"Interview portion of ""Community Based Aids Drug Trials"" article draft with edits, not written by John",mixed,atnr,1.5,handwritten edit to an article
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,Average Granularity,
+,,,,,Handwritten,1.5,
+,,,,,Typewritten,2.7,
+,,,,,Mixed,1.6,
